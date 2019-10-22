@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Movieapp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="movielist">영화목록</string>
+    <string name="movie_summary">\n군도, 백성을 구하라!\n양반과 탐관오리들의 착취가 극에 달했던 조선 철종 13년. 힘 없는 백성의 편이 되어 세상을 바로잡고자 하는 의적떼인 군도(群盜), 지리산 추설이 있었다.\n\n쌍칼 도치 vs 백성의 적 조윤\n잦은 자연재해, 기근과 관의 횡포까지 겹쳐 백성들의 삶이 날로 피폐해 져 가는 사이, 나주 대부호의 서자로 조선 최고의 무관 출신인 조윤은 극악한 수법으로 양민들을 수탈,
+    삼남지방 최고의 대부호로 성장한다. 한편 소, 돼지를 잡아 근근이 살아가던 천한 백정 돌무치는 죽어도 잊지 못할 끔찍한 일을 당한 뒤 군도에 합류. 지리산 추설의 신 거성(新 巨星) 도치로 거듭난다.\n
+    \n뭉치면 백성, 흩어지면 도적!\n망할 세상을 뒤집기 위해, 백성이 주인인 새 세상을 향해 도치를 필두로 한 군도는 백성의 적,
+        조윤과 한 판 승부를 시작하는데...</string>
+    <string name="movie_summary2">비밀리에 제작된 위조 지폐 동판을 탈취하려는\n 내부 조직에 의해작전 중 아내와 동료들을 잃게 된 특수 정예부대 출신의 북한형사 ‘림철령’(현빈).
+    동판을 찾아야만 하는 북한은 남한으로 숨어든 조직의 리더 ‘차기성’(김주혁)을 잡기 위해역사상 최초의 남북 공조수사를 요청하고, 그 적임자로 철령을 서울에 파견한다.
+        \n\n한편, 북한의 속내가 의심스런 남한은 먼저 차기성을 잡기 위한 작전을 계획하고,정직 처분 중인 \n생계형 형사 ‘강진태’(유해진)에게 공조수사를 위장한 철령의 밀착 감시를 지시한다.임무를 완수해야 하는 철령과 임무를 막아야만 하는 진태.그들에게 주어진 시간은 단 3일,한 팀이 될 수 없는 남북 형사의 예측불가 공조수사가 \n시작된다!</string>
+    <string name="movie_summary3">대한민국의 왕은 누구인가?\n무소불위 권력을 쥐고\n폼 나게 살고 싶었던 태수는우여곡절 끝에 권력의 설계자 한강식을 만나핵심 라인을 타고 승승장구 하게 된다\n\n\n정권이 교체되는 중요한 시기,새로운 판을 짜며 기회를\n 노리던 이들 앞에예상치 못한 위기가 닥치는데…\n\n\n대한민국이 속 시원하게 뒤집힌다!</string>
+    <string name="movie_summary4">"엄브렐라가 개발한 치명적인 T-바이러스가 \n전 세계에 퍼지고, 바이러스에 감염된 언데드들이  \n세상을 뒤덮는다.\n\n인류의 유일한 희망인 \n‘앨리스’(밀라 요보비치)는 폐허가 된 도시를 떠돌던 중 엄브렐라가 T-바이러스를 해독할 백신 개발에 성공했다는 것을 알게 된다.\n\n그녀는 백신을 손에 넣기 위해 모든 사건의 시발점이자 \n엄브렐라의 본거지인 ‘라쿤 시티’로 돌아가 모든 것을
+        \n끝낼 마지막 전쟁을 시작하는데.\n\n생존자들을 구하기 위해 주어진 시간은 48시간.
+        \n\n인류 최후의 전사 '앨리스'의 마지막 전쟁이 시작된다!"</string>
+    <string name="movie_summary5">성공률 100% 완벽한 킬러!\n목욕탕 Key 때문에 무명배우로 삶이 뒤바뀌다?!\n냉혹한 킬러 형욱(유해진)은 사건 처리 후 우연히 들른\n목욕탕에서 비누를 밟고 넘어져 과거의 기억을 잃게 된다.\n\n인기도, 삶의 의욕도 없어 죽기로 결심한 무명배우 재성(이준)은 신변 정리를 위해 들른 목욕탕에서그런 형욱을 보게 되고, 자신과 그의 목욕탕 키를 바꿔 도망친다.\n\n이후 형욱은 자신이 재성이라고 생각한 채, 배우로 성공하기 위해 노력하는데…\n인생에 단 한번 찾아온 초대형 기회! 초특급 반전!\n이것이 LUCK.KEY다!</string>
+
+
+</resources>
